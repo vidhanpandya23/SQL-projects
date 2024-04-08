@@ -30,3 +30,5 @@ The project encompasses a vast database comprising over 1 million records, servi
 8. **Data Integrity and Relationships:** We prioritized maintaining data integrity and establishing relationships between database entities, ensuring the reliability and consistency of our data.
 
 9. **Window Functions:** Leveraging window functions enabled us to perform advanced data analysis tasks like ranking, aggregation, and partitioning, thereby enhancing our analytical capabilities.
+
+**Project Presentation:** [Google Slides](https://docs.google.com/presentation/d/15TfZ3B3BZq6DqgzTrbF5Eh_8gXYplzflqF7MYGYsx2M/edit?usp=sharing) 
